@@ -1,0 +1,29 @@
+body{
+  font-family: courier;
+  background: linear-gradient(#91d27a, #9198e5);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  text-align: center;
+  margin-top: 100px;
+
+}
+h1{
+  margin: 50px;
+}
+.none{
+  width: 500px;
+  background-color: inherit;
+}
+input{
+  margin:10px;
+  font-size: 1.2em;
+}
+button{
+  font-size: 1.2em;
+  text-transform: uppercase;
+}
+label{
+  margin:10px;
+  font-size: 1.2em;
+}
